@@ -1,0 +1,35 @@
+# Clojure/Java
+*.class
+*.jar
+/lib/
+/target/
+/classes/
+/checkouts/
+
+# Leiningen
+/lein-env
+
+# nREPL
+.nrepl-port
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.calva/
+
+# Editor backups
+*~
+*.swp
+*.swo
+\#*\#
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Clojure tools
+.cpcache/
+.clj-kondo/
+.lsp/
+
