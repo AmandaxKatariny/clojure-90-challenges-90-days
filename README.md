@@ -1,5 +1,7 @@
 # Clojure 90 Challenges in 90 Days
 
+https://github.com/nubank/tlt-clojure-90-challenges-90-days
+
 Um projeto de aprendizado progressivo de Clojure, do básico aos padrões profissionais, inspirado em código de produção real.
 
 ## 📚 Recursos
